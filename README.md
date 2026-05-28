@@ -57,9 +57,8 @@ Power BI · Git/GitHub.
 
 ```
 data/        raw (read-only) → processed → final
-notebooks/   exploration & cleaning (with narrative)
-scripts/     reproducible pipeline
-sql/         schema, loading, views, analysis queries
+scripts/     reproducible pipeline (cleaning, Postgres loader, SQL runner)
+sql/         schema, dimensions, reporting views, analysis queries
 powerbi/     dashboard + exports
 ```
 

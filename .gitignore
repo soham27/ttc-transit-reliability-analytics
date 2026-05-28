@@ -8,6 +8,9 @@ CLAUDE.md
 # Internal project notes — kept locally, not published
 docs/
 
+# Notebooks — kept locally as working artifacts, not in the public repo
+notebooks/
+
 # Python
 __pycache__/
 *.py[cod]
