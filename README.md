@@ -3,8 +3,11 @@
 **Delay hotspots, root causes, and service-impact prioritisation across the Toronto Transit
 Commission's subway, bus, and streetcar network.**
 
-> Status: 🚧 In progress (V1). This README will be filled in with results, screenshots, and
-> recommendations as the project develops.
+## Dashboard Preview
+
+_Click on the image for a better view._
+
+[![Executive Summary — TTC Reliability Analytics dashboard](powerbi/screenshots/page_1_executive_summary.png)](powerbi/screenshots/page_1_executive_summary.png)
 
 ---
 
@@ -79,5 +82,8 @@ _To be added (e.g., scope window, self-reported delay codes, mode-specific field
 GTFS route/stop mapping · weather enrichment · delay forecasting · optional Streamlit companion app.
 
 ---
+
+> Status: 🚧 In progress (V1). This README will be filled in with results, screenshots, and
+> recommendations as the project develops.
 
 *Built as a data-analyst portfolio project. See `docs/` for the full plan and decision log.*
