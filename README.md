@@ -37,8 +37,7 @@ streetcar, **2022 onward** (2025+ as CSV, 2022–2024 as Excel), plus delay-code
 lookups for each mode.
 
 Scope note: 2020–2021 (COVID) and 2018–2019 (pre-COVID) are deliberately excluded so trends and
-seasonality reflect current, comparable operations. _See `docs/decisions.md` for the full
-rationale._
+seasonality reflect current, comparable operations.
 
 ## Tools
 
@@ -62,7 +61,6 @@ notebooks/   exploration & cleaning (with narrative)
 scripts/     reproducible pipeline
 sql/         schema, loading, views, analysis queries
 powerbi/     dashboard + exports
-docs/        project plan, decision log, progress, data inventory
 ```
 
 ## Key insights
@@ -86,4 +84,4 @@ GTFS route/stop mapping · weather enrichment · delay forecasting · optional S
 > Status: 🚧 In progress (V1). This README will be filled in with results, screenshots, and
 > recommendations as the project develops.
 
-*Built as a data-analyst portfolio project. See `docs/` for the full plan and decision log.*
+*Built as a data-analyst portfolio project.*

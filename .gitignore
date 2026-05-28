@@ -5,6 +5,9 @@
 # AI agent instructions — not for the public repo
 CLAUDE.md
 
+# Internal project notes — kept locally, not published
+docs/
+
 # Python
 __pycache__/
 *.py[cod]
