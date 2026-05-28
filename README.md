@@ -5,7 +5,7 @@ Commission's subway, bus, and streetcar network.**
 
 ## Dashboard Preview
 
-_Click on the image for a better view._
+_Click on the image for a clearer view._
 
 [![Executive Summary — TTC Reliability Analytics dashboard](powerbi/screenshots/page_1_executive_summary.png)](powerbi/screenshots/page_1_executive_summary.png)
 
