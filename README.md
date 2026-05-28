@@ -1,4 +1,4 @@
-# TTC Transit Reliability Analytics
+# TTC Transit Delay & Reliability Analytics
 
 **Delay hotspots, root causes, and service-impact prioritisation across the Toronto Transit
 Commission's subway, bus, and streetcar network.**
