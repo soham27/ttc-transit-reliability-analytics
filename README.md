@@ -380,8 +380,8 @@ The SQL files deliberately skip slot numbers `02` and `04`. Slot 02's intended j
 
 ```powershell
 # 1. Clone
-git clone https://github.com/soham27/ttc-transit-reliability-analytics.git
-cd ttc-transit-reliability-analytics
+git clone https://github.com/soham27/ttc-transit-delay-reliability-analytics.git
+cd ttc-transit-delay-reliability-analytics
 
 # 2. Python environment
 py -m venv .venv
